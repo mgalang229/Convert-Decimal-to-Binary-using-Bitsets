@@ -1,3 +1,3 @@
 # Convert-Decimal-to-Binary-using-Bitsets
 ## Bitset (C++)
-![](bitset.png)
+![](bitset.jpeg)
